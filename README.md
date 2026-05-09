@@ -3,7 +3,7 @@ Ambiente para inserção do conteúdo relacionado à disciplina Software Product
 
 # Instruções para rodar o pbix na máquina local:
 
-P1 - baixar o arquivo Dashboard_jira_AC2.pbix , localizado na pasta projeto_impacta/Power BI
+P1 - baixar o arquivo Dashboard_jira_AC3.pbix , localizado na pasta projeto_impacta/Power BI
 
 P2 - baixar o arquuivo dados_jira_projectview.csv, localizado em dataset ( pode aparecer como "Conjunto de dados", por conta do tradutor do navegador)
 
